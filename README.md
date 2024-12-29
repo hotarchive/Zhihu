@@ -9,7 +9,7 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2024-12-30 04:09:46 +0800`
+`更新时间：2024-12-30 05:08:49 +0800`
 
 ## 热门搜索
 
@@ -41,10 +41,10 @@
 1. [WTT 声明引发多名运动员质疑，樊振东称此前未被告知退赛会罚款，反映了哪些问题？](https://www.zhihu.com/question/8160347529)
 1. [是不是有很多人宁愿等网约车，也不愿坐路边的出租车了？为什么？](https://www.zhihu.com/question/7979944824)
 1. [数据显示今年全国观影人次减少 3.6 亿，为什么大家都不爱去看电影了？是片太烂还是大家不想花钱了？](https://www.zhihu.com/question/7851676737)
+1. [有没有当老师的能告诉我，当了这么多年的老师，你最大的感触是什么?](https://www.zhihu.com/question/4350677196)
+1. [家长的思维方式对孩子有多大程度的影响？](https://www.zhihu.com/question/5367722183)
 1. [天赋顶级的小说家究竟有多恐怖？](https://www.zhihu.com/question/5018539190)
 1. [辅导孩子作业真的很难吗？难在哪里？](https://www.zhihu.com/question/7946461265)
-1. [家长的思维方式对孩子有多大程度的影响？](https://www.zhihu.com/question/5367722183)
-1. [有没有当老师的能告诉我，当了这么多年的老师，你最大的感触是什么?](https://www.zhihu.com/question/4350677196)
 1. [如何评价易烊千玺的电影《小小的我》？](https://www.zhihu.com/question/8044608454)
 1. [相同体重的猫头鹰和野猫拼命，谁赢的概率大?](https://www.zhihu.com/question/8018849102)
 1. [日本川崎重工被曝与军方勾结虚假交易长达 6 年，交易总额达 17 亿日元，如何看待此事？](https://www.zhihu.com/question/8115777806)
@@ -74,10 +74,10 @@
 1. [WTT 声明引发多名运动员质疑，樊振东称此前未被告知退赛会罚款，反映了哪些问题？](https://www.zhihu.com/question/8160347529)
 1. [是不是有很多人宁愿等网约车，也不愿坐路边的出租车了？为什么？](https://www.zhihu.com/question/7979944824)
 1. [数据显示今年全国观影人次减少 3.6 亿，为什么大家都不爱去看电影了？是片太烂还是大家不想花钱了？](https://www.zhihu.com/question/7851676737)
+1. [有没有当老师的能告诉我，当了这么多年的老师，你最大的感触是什么?](https://www.zhihu.com/question/4350677196)
+1. [家长的思维方式对孩子有多大程度的影响？](https://www.zhihu.com/question/5367722183)
 1. [天赋顶级的小说家究竟有多恐怖？](https://www.zhihu.com/question/5018539190)
 1. [辅导孩子作业真的很难吗？难在哪里？](https://www.zhihu.com/question/7946461265)
-1. [家长的思维方式对孩子有多大程度的影响？](https://www.zhihu.com/question/5367722183)
-1. [有没有当老师的能告诉我，当了这么多年的老师，你最大的感触是什么?](https://www.zhihu.com/question/4350677196)
 1. [如何评价易烊千玺的电影《小小的我》？](https://www.zhihu.com/question/8044608454)
 1. [相同体重的猫头鹰和野猫拼命，谁赢的概率大?](https://www.zhihu.com/question/8018849102)
 1. [日本川崎重工被曝与军方勾结虚假交易长达 6 年，交易总额达 17 亿日元，如何看待此事？](https://www.zhihu.com/question/8115777806)

@@ -9,12 +9,11 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-06-12 08:57:12 +0800`
+`更新时间：2025-06-12 10:43:17 +0800`
 
 ## 热门搜索
 
-1. [华为Pura80系列发布](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAPura80%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83)
-1. [北大回应商家售卖未名湖湖水](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%95%86%E5%AE%B6%E5%94%AE%E5%8D%96%E6%9C%AA%E5%90%8D%E6%B9%96%E6%B9%96%E6%B0%B4)
+1. [硅基流动完成新一轮数亿元融资](https://www.zhihu.com/search?q=%E7%A1%85%E5%9F%BA%E6%B5%81%E5%8A%A8%E5%AE%8C%E6%88%90%E6%96%B0%E4%B8%80%E8%BD%AE%E6%95%B0%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
 1. [国足vs巴林](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)

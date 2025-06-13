@@ -9,12 +9,12 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-06-13 10:44:48 +0800`
+`更新时间：2025-06-13 11:43:16 +0800`
 
 ## 热门搜索
 
-1. [邓紫棋6年没有收到版税](https://www.zhihu.com/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B6%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%94%B6%E5%88%B0%E7%89%88%E7%A8%8E)
-1. [三文鱼真的有寄生虫吗](https://www.zhihu.com/search?q=%E4%B8%89%E6%96%87%E9%B1%BC%E7%9C%9F%E7%9A%84%E6%9C%89%E5%AF%84%E7%94%9F%E8%99%AB%E5%90%97)
+1. [火车对铁轨的磨损为何不明显](https://www.zhihu.com/search?q=%E7%81%AB%E8%BD%A6%E5%AF%B9%E9%93%81%E8%BD%A8%E7%9A%84%E7%A3%A8%E6%8D%9F%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%98%8E%E6%98%BE)
+1. [日野汽车和三菱扶桑确定业务合并](https://www.zhihu.com/search?q=%E6%97%A5%E9%87%8E%E6%B1%BD%E8%BD%A6%E5%92%8C%E4%B8%89%E8%8F%B1%E6%89%B6%E6%A1%91%E7%A1%AE%E5%AE%9A%E4%B8%9A%E5%8A%A1%E5%90%88%E5%B9%B6)
 1. [SEVENTEEN新歌mv](https://www.zhihu.com/search?q=SEVENTEEN%E6%96%B0%E6%AD%8Cmv)
 1. [歌手第五期歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)

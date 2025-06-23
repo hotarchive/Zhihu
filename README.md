@@ -9,12 +9,12 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-06-23 16:17:39 +0800`
+`更新时间：2025-06-23 17:15:20 +0800`
 
 ## 热门搜索
 
-1. [金价跌跌不休](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91)
-1. [英国央行维持利率不变](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%A4%AE%E8%A1%8C%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [以方称摧毁伊朗国内安全总部](https://www.zhihu.com/search?q=%E4%BB%A5%E6%96%B9%E7%A7%B0%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8%E6%80%BB%E9%83%A8)
+1. [高瓴参与竞购星巴克中国业务](https://www.zhihu.com/search?q=%E9%AB%98%E7%93%B4%E5%8F%82%E4%B8%8E%E7%AB%9E%E8%B4%AD%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [人民日报谈单依纯改编歌曲李白](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%94%B9%E7%BC%96%E6%AD%8C%E6%9B%B2%E6%9D%8E%E7%99%BD)
 1. [八旬老人诊断胃炎被以癌症切全胃](https://www.zhihu.com/search?q=%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E8%AF%8A%E6%96%AD%E8%83%83%E7%82%8E%E8%A2%AB%E4%BB%A5%E7%99%8C%E7%97%87%E5%88%87%E5%85%A8%E8%83%83)

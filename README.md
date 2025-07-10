@@ -9,11 +9,12 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-07-10 10:50:52 +0800`
+`更新时间：2025-07-10 11:49:03 +0800`
 
 ## 热门搜索
 
-1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
+1. [如果爆炒是一场「宇宙大爆炸」](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E7%88%86%E7%82%92%E6%98%AF%E4%B8%80%E5%9C%BA%E3%80%8C%E5%AE%87%E5%AE%99%E5%A4%A7%E7%88%86%E7%82%B8%E3%80%8D)
+1. [相声演员杨少华去世](https://www.zhihu.com/search?q=%E7%9B%B8%E5%A3%B0%E6%BC%94%E5%91%98%E6%9D%A8%E5%B0%91%E5%8D%8E%E5%8E%BB%E4%B8%96)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)

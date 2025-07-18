@@ -9,11 +9,11 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-07-18 10:59:58 +0800`
+`更新时间：2025-07-18 12:00:04 +0800`
 
 ## 热门搜索
 
-1. [说说你身边最震惊你的八卦](https://www.zhihu.com/search?q=%E8%AF%B4%E8%AF%B4%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%80%E9%9C%87%E6%83%8A%E4%BD%A0%E7%9A%84%E5%85%AB%E5%8D%A6)
+1. [生父回应让男孩坐后备箱称不会道歉](https://www.zhihu.com/search?q=%E7%94%9F%E7%88%B6%E5%9B%9E%E5%BA%94%E8%AE%A9%E7%94%B7%E5%AD%A9%E5%9D%90%E5%90%8E%E5%A4%87%E7%AE%B1%E7%A7%B0%E4%B8%8D%E4%BC%9A%E9%81%93%E6%AD%89)
 1. [开轿车累还是 suv 累](https://www.zhihu.com/search?q=%E5%BC%80%E8%BD%BF%E8%BD%A6%E7%B4%AF%E8%BF%98%E6%98%AF%20suv%20%E7%B4%AF)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [农村现在的光棍现象有多严重](https://www.zhihu.com/search?q=%E5%86%9C%E6%9D%91%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%85%89%E6%A3%8D%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D)

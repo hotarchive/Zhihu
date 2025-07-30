@@ -9,10 +9,11 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-07-30 14:20:38 +0800`
+`更新时间：2025-07-30 15:18:18 +0800`
 
 ## 热门搜索
 
+1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [石宇奇夺冠](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87%E5%A4%BA%E5%86%A0)

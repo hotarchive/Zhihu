@@ -9,11 +9,12 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-07-31 09:02:17 +0800`
+`更新时间：2025-07-31 11:26:51 +0800`
 
 ## 热门搜索
 
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [堪察加东岸近海再发生 6.0 级左右地震](https://www.zhihu.com/search?q=%E5%A0%AA%E5%AF%9F%E5%8A%A0%E4%B8%9C%E5%B2%B8%E8%BF%91%E6%B5%B7%E5%86%8D%E5%8F%91%E7%94%9F%206.0%20%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87)
+1. [河北内蒙古多地破纪录暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E5%86%85%E8%92%99%E5%8F%A4%E5%A4%9A%E5%9C%B0%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9A%B4%E9%9B%A8)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [石宇奇夺冠](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87%E5%A4%BA%E5%86%A0)

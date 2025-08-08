@@ -9,11 +9,11 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-08-08 20:25:14 +0800`
+`更新时间：2025-08-08 21:33:17 +0800`
 
 ## 热门搜索
 
-1. [胖东来拟招1000人](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9F%E6%8B%9B1000%E4%BA%BA)
+1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [专家称高温热黑比紫外线更伤皮肤](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%AB%98%E6%B8%A9%E7%83%AD%E9%BB%91%E6%AF%94%E7%B4%AB%E5%A4%96%E7%BA%BF%E6%9B%B4%E4%BC%A4%E7%9A%AE%E8%82%A4)

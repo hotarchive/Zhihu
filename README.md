@@ -9,7 +9,7 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-08-24 09:00:53 +0800`
+`更新时间：2025-08-24 11:13:02 +0800`
 
 ## 热门搜索
 
@@ -23,9 +23,9 @@
 1. [泡泡玛特市值突破 4000 亿港元](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4%204000%20%E4%BA%BF%E6%B8%AF%E5%85%83)
 1. [泡泡玛特股价年内涨幅超 230%](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%82%A1%E4%BB%B7%E5%B9%B4%E5%86%85%E6%B6%A8%E5%B9%85%E8%B6%85%20230%25)
 1. [2025 科隆游戏展](https://www.zhihu.com/search?q=2025%20%E7%A7%91%E9%9A%86%E6%B8%B8%E6%88%8F%E5%B1%95)
-1. [董璇被指对张维伊是母爱](https://www.zhihu.com/search?q=%E8%91%A3%E7%92%87%E8%A2%AB%E6%8C%87%E5%AF%B9%E5%BC%A0%E7%BB%B4%E4%BC%8A%E6%98%AF%E6%AF%8D%E7%88%B1)
 1. [赛马节顺拐马演绎现实版马踏飞燕](https://www.zhihu.com/search?q=%E8%B5%9B%E9%A9%AC%E8%8A%82%E9%A1%BA%E6%8B%90%E9%A9%AC%E6%BC%94%E7%BB%8E%E7%8E%B0%E5%AE%9E%E7%89%88%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95)
 1. [12306回应站台等候区禁烟](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E7%AB%99%E5%8F%B0%E7%AD%89%E5%80%99%E5%8C%BA%E7%A6%81%E7%83%9F)
+1. [报告称95%生成式AI投资回报为零](https://www.zhihu.com/search?q=%E6%8A%A5%E5%91%8A%E7%A7%B095%25%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E4%B8%BA%E9%9B%B6)
 1. [哲学教授苏德超为文科发声](https://www.zhihu.com/search?q=%E5%93%B2%E5%AD%A6%E6%95%99%E6%8E%88%E8%8B%8F%E5%BE%B7%E8%B6%85%E4%B8%BA%E6%96%87%E7%A7%91%E5%8F%91%E5%A3%B0)
 1. [我国在可燃冰大规模利用领域实现重要突破](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%9C%A8%E5%8F%AF%E7%87%83%E5%86%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%88%A9%E7%94%A8%E9%A2%86%E5%9F%9F%E5%AE%9E%E7%8E%B0%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4)
 1. [四川非婚生子领补贴需结婚证](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%9D%9E%E5%A9%9A%E7%94%9F%E5%AD%90%E9%A2%86%E8%A1%A5%E8%B4%B4%E9%9C%80%E7%BB%93%E5%A9%9A%E8%AF%81)

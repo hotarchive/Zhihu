@@ -9,7 +9,7 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-09-16 11:23:15 +0800`
+`更新时间：2025-09-16 12:13:35 +0800`
 
 ## 热门搜索
 
@@ -18,6 +18,7 @@
 1. [艾美奖获奖名单](https://www.zhihu.com/search?q=%E8%89%BE%E7%BE%8E%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
 1. [莫斯科交易所暂停股票交易](https://www.zhihu.com/search?q=%E8%8E%AB%E6%96%AF%E7%A7%91%E4%BA%A4%E6%98%93%E6%89%80%E6%9A%82%E5%81%9C%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93)
 1. [什么是顶级的思维](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%80%9D%E7%BB%B4)
+1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [于朦胧](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7)
 1. [于朦胧确认去世](https://www.zhihu.com/search?q=%E4%BA%8E%E6%9C%A6%E8%83%A7%E7%A1%AE%E8%AE%A4%E5%8E%BB%E4%B8%96)
 1. [很多人开始反思「临时生活」](https://www.zhihu.com/search?q=%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E6%80%9D%E3%80%8C%E4%B8%B4%E6%97%B6%E7%94%9F%E6%B4%BB%E3%80%8D)
@@ -34,7 +35,6 @@
 1. [山东一中学食堂无座椅学生站着用餐](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E4%B8%80%E4%B8%AD%E5%AD%A6%E9%A3%9F%E5%A0%82%E6%97%A0%E5%BA%A7%E6%A4%85%E5%AD%A6%E7%94%9F%E7%AB%99%E7%9D%80%E7%94%A8%E9%A4%90)
 1. [2025法考](https://www.zhihu.com/search?q=2025%E6%B3%95%E8%80%83)
 1. [女子半夜发现马桶内有一条蛇](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%8E%B0%E9%A9%AC%E6%A1%B6%E5%86%85%E6%9C%89%E4%B8%80%E6%9D%A1%E8%9B%87)
-1. [海底捞索赔2000万为何难获支持](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%B4%A2%E8%B5%942000%E4%B8%87%E4%B8%BA%E4%BD%95%E9%9A%BE%E8%8E%B7%E6%94%AF%E6%8C%81)
 1. [宿迁2比1常州锁定胜局](https://www.zhihu.com/search?q=%E5%AE%BF%E8%BF%812%E6%AF%941%E5%B8%B8%E5%B7%9E%E9%94%81%E5%AE%9A%E8%83%9C%E5%B1%80)
 
 ## 热门话题

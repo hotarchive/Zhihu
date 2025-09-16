@@ -9,7 +9,7 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-09-16 12:13:35 +0800`
+`更新时间：2025-09-16 13:11:23 +0800`
 
 ## 热门搜索
 
@@ -32,10 +32,10 @@
 1. [孙颖莎战胜斯佐科斯](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%88%98%E8%83%9C%E6%96%AF%E4%BD%90%E7%A7%91%E6%96%AF)
 1. [河南一景点石头被彩绘成巨型蛇头](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%80%E6%99%AF%E7%82%B9%E7%9F%B3%E5%A4%B4%E8%A2%AB%E5%BD%A9%E7%BB%98%E6%88%90%E5%B7%A8%E5%9E%8B%E8%9B%87%E5%A4%B4)
 1. [29岁男星蒋智豪确诊癌症晚期](https://www.zhihu.com/search?q=29%E5%B2%81%E7%94%B7%E6%98%9F%E8%92%8B%E6%99%BA%E8%B1%AA%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F)
-1. [山东一中学食堂无座椅学生站着用餐](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E4%B8%80%E4%B8%AD%E5%AD%A6%E9%A3%9F%E5%A0%82%E6%97%A0%E5%BA%A7%E6%A4%85%E5%AD%A6%E7%94%9F%E7%AB%99%E7%9D%80%E7%94%A8%E9%A4%90)
 1. [2025法考](https://www.zhihu.com/search?q=2025%E6%B3%95%E8%80%83)
 1. [女子半夜发现马桶内有一条蛇](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%8E%B0%E9%A9%AC%E6%A1%B6%E5%86%85%E6%9C%89%E4%B8%80%E6%9D%A1%E8%9B%87)
 1. [宿迁2比1常州锁定胜局](https://www.zhihu.com/search?q=%E5%AE%BF%E8%BF%812%E6%AF%941%E5%B8%B8%E5%B7%9E%E9%94%81%E5%AE%9A%E8%83%9C%E5%B1%80)
+1. [多地中学发布「发型令」](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%AD%A6%E5%8F%91%E5%B8%83%E3%80%8C%E5%8F%91%E5%9E%8B%E4%BB%A4%E3%80%8D)
 
 ## 热门话题
 

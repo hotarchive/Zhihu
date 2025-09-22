@@ -9,12 +9,11 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-09-22 10:27:17 +0800`
+`更新时间：2025-09-22 11:33:55 +0800`
 
 ## 热门搜索
 
-1. [特斯拉将重新设计车门把手](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%B0%86%E9%87%8D%E6%96%B0%E8%AE%BE%E8%AE%A1%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B)
-1. [专家称烟花秀可能影响鼠兔](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%83%9F%E8%8A%B1%E7%A7%80%E5%8F%AF%E8%83%BD%E5%BD%B1%E5%93%8D%E9%BC%A0%E5%85%94)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [steam 崩了](https://www.zhihu.com/search?q=steam%20%E5%B4%A9%E4%BA%86)
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG%E5%A4%BA%E5%86%A0)
 1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=%E4%B9%B0%E4%BA%86%E5%B0%8F%E7%B1%B3SU7%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)

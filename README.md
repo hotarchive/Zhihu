@@ -9,12 +9,12 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-10-19 11:41:04 +0800`
+`更新时间：2025-10-19 12:15:10 +0800`
 
 ## 热门搜索
 
-1. [荷兰回应接管中资芯片企业](https://www.zhihu.com/search?q=%E8%8D%B7%E5%85%B0%E5%9B%9E%E5%BA%94%E6%8E%A5%E7%AE%A1%E4%B8%AD%E8%B5%84%E8%8A%AF%E7%89%87%E4%BC%81%E4%B8%9A)
-1. [南京德基广场设会员专属厕所](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%BE%B7%E5%9F%BA%E5%B9%BF%E5%9C%BA%E8%AE%BE%E4%BC%9A%E5%91%98%E4%B8%93%E5%B1%9E%E5%8E%95%E6%89%80)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [世界粮食日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%AE%E9%A3%9F%E6%97%A5)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%BE%80%E5%BE%80%E6%9C%80%E5%85%88%E7%A6%BB%E8%81%8C)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
@@ -29,6 +29,7 @@
 1. [你见过什么毁三观的事](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E4%BB%80%E4%B9%88%E6%AF%81%E4%B8%89%E8%A7%82%E7%9A%84%E4%BA%8B)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
 1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
+1. [最近一次开怀大笑是因为什么](https://www.zhihu.com/search?q=%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E5%BC%80%E6%80%80%E5%A4%A7%E7%AC%91%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88)
 1. [为什么去日本一下就能被认出是中国人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E6%97%A5%E6%9C%AC%E4%B8%80%E4%B8%8B%E5%B0%B1%E8%83%BD%E8%A2%AB%E8%AE%A4%E5%87%BA%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA)
 1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%8D%E6%84%9F%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E8%AF%B4%E6%95%99)
 1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)

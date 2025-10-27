@@ -9,12 +9,14 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-10-27 10:48:36 +0800`
+`更新时间：2025-10-27 11:47:00 +0800`
 
 ## 热门搜索
 
-1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
+1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [Bin](https://www.zhihu.com/search?q=Bin)
+1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E5%90%8D%E8%A8%80)
+1. [如何看待途虎这家公司](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%80%94%E8%99%8E%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8)
 1. [王自如自曝负债 1 个亿](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%87%AA%E6%9B%9D%E8%B4%9F%E5%80%BA%201%20%E4%B8%AA%E4%BA%BF)
 1. [CS2更新](https://www.zhihu.com/search?q=CS2%E6%9B%B4%E6%96%B0)
 1. [我国成功研制出新型芯片](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E5%87%BA%E6%96%B0%E5%9E%8B%E8%8A%AF%E7%89%87)
@@ -34,7 +36,6 @@
 1. [自燃理想MEGA车主发律师函](https://www.zhihu.com/search?q=%E8%87%AA%E7%87%83%E7%90%86%E6%83%B3MEGA%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD)
 1. [理想自燃事故车主称后排车门无法立即开启](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E8%87%AA%E7%87%83%E4%BA%8B%E6%95%85%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%90%8E%E6%8E%92%E8%BD%A6%E9%97%A8%E6%97%A0%E6%B3%95%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%90%AF)
 1. [全球最大万吨级纯电动运输船下水](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E4%B8%87%E5%90%A8%E7%BA%A7%E7%BA%AF%E7%94%B5%E5%8A%A8%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%8B%E6%B0%B4)
-1. [现货黄金向下跌破4150美元](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8B%E8%B7%8C%E7%A0%B44150%E7%BE%8E%E5%85%83)
 
 ## 热门话题
 

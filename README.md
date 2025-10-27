@@ -9,7 +9,7 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-10-27 11:47:00 +0800`
+`更新时间：2025-10-27 12:21:58 +0800`
 
 ## 热门搜索
 
@@ -23,7 +23,6 @@
 1. [CSGO游戏更新导致游戏外市场崩溃](https://www.zhihu.com/search?q=CSGO%E6%B8%B8%E6%88%8F%E6%9B%B4%E6%96%B0%E5%AF%BC%E8%87%B4%E6%B8%B8%E6%88%8F%E5%A4%96%E5%B8%82%E5%9C%BA%E5%B4%A9%E6%BA%83)
 1. [逃离鸭科夫为何受欢迎](https://www.zhihu.com/search?q=%E9%80%83%E7%A6%BB%E9%B8%AD%E7%A7%91%E5%A4%AB%E4%B8%BA%E4%BD%95%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [教育部：不得以考试成绩对学生进行排名](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%BB%A5%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E5%AF%B9%E5%AD%A6%E7%94%9F%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%90%8D)
-1. [年轻人玩剧本杀寻找完美恋人](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%8E%A9%E5%89%A7%E6%9C%AC%E6%9D%80%E5%AF%BB%E6%89%BE%E5%AE%8C%E7%BE%8E%E6%81%8B%E4%BA%BA)
 1. [《喜人奇妙夜》第二季第五期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E4%BA%94%E6%9C%9F)
 1. [导演金性洙称韩国电影没人拍了](https://www.zhihu.com/search?q=%E5%AF%BC%E6%BC%94%E9%87%91%E6%80%A7%E6%B4%99%E7%A7%B0%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1%E6%B2%A1%E4%BA%BA%E6%8B%8D%E4%BA%86)
 1. [可偷甘蔗地成打卡点](https://www.zhihu.com/search?q=%E5%8F%AF%E5%81%B7%E7%94%98%E8%94%97%E5%9C%B0%E6%88%90%E6%89%93%E5%8D%A1%E7%82%B9)
@@ -36,6 +35,7 @@
 1. [自燃理想MEGA车主发律师函](https://www.zhihu.com/search?q=%E8%87%AA%E7%87%83%E7%90%86%E6%83%B3MEGA%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD)
 1. [理想自燃事故车主称后排车门无法立即开启](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E8%87%AA%E7%87%83%E4%BA%8B%E6%95%85%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%90%8E%E6%8E%92%E8%BD%A6%E9%97%A8%E6%97%A0%E6%B3%95%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%90%AF)
 1. [全球最大万吨级纯电动运输船下水](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E4%B8%87%E5%90%A8%E7%BA%A7%E7%BA%AF%E7%94%B5%E5%8A%A8%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%8B%E6%B0%B4)
+1. [现货黄金向下跌破4150美元](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8B%E8%B7%8C%E7%A0%B44150%E7%BE%8E%E5%85%83)
 
 ## 热门话题
 

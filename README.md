@@ -9,11 +9,12 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-11-03 17:15:04 +0800`
+`更新时间：2025-11-03 18:14:16 +0800`
 
 ## 热门搜索
 
-1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
+1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
+1. [有什么尴尬到爆的经历](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%B0%B4%E5%B0%AC%E5%88%B0%E7%88%86%E7%9A%84%E7%BB%8F%E5%8E%86)
 1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=%E4%B8%8D%E9%B8%A1%E5%A8%83%E7%9A%84%E7%BB%93%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么现在的员工都不爱公司](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%91%98%E5%B7%A5%E9%83%BD%E4%B8%8D%E7%88%B1%E5%85%AC%E5%8F%B8)
 1. [你住酒店时有过哪些奇葩经历](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BD%8F%E9%85%92%E5%BA%97%E6%97%B6%E6%9C%89%E8%BF%87%E5%93%AA%E4%BA%9B%E5%A5%87%E8%91%A9%E7%BB%8F%E5%8E%86)
@@ -21,7 +22,7 @@
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
-1. [S15 淘汰赛 T1 vs TES](https://www.zhihu.com/search?q=S15%20%E6%B7%98%E6%B1%B0%E8%B5%9B%20T1%20vs%20TES)
+1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
 1. [李银河谈老年人与 AI](https://www.zhihu.com/search?q=%E6%9D%8E%E9%93%B6%E6%B2%B3%E8%B0%88%E8%80%81%E5%B9%B4%E4%BA%BA%E4%B8%8E%20AI)

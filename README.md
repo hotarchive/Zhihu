@@ -9,7 +9,7 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-11-10 11:45:59 +0800`
+`更新时间：2025-11-10 12:20:04 +0800`
 
 ## 热门搜索
 
@@ -35,10 +35,10 @@
 1. [雪王 登上好物100榜单](https://www.zhihu.com/search?q=%E9%9B%AA%E7%8E%8B%20%E7%99%BB%E4%B8%8A%E5%A5%BD%E7%89%A9100%E6%A6%9C%E5%8D%95)
 1. [Kimi k2即将更新推理模式](https://www.zhihu.com/search?q=Kimi%20k2%E5%8D%B3%E5%B0%86%E6%9B%B4%E6%96%B0%E6%8E%A8%E7%90%86%E6%A8%A1%E5%BC%8F)
 1. [饭店为防食客腹泻在菜里加抗生素](https://www.zhihu.com/search?q=%E9%A5%AD%E5%BA%97%E4%B8%BA%E9%98%B2%E9%A3%9F%E5%AE%A2%E8%85%B9%E6%B3%BB%E5%9C%A8%E8%8F%9C%E9%87%8C%E5%8A%A0%E6%8A%97%E7%94%9F%E7%B4%A0)
+1. [福建舰入列](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97)
 1. [湖南通报医院副院长出轨眼科主任](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB)
 1. [女子「丽春」申请改名被拒](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E3%80%8C%E4%B8%BD%E6%98%A5%E3%80%8D%E7%94%B3%E8%AF%B7%E6%94%B9%E5%90%8D%E8%A2%AB%E6%8B%92)
 1. [科学家称发现「吃塑料」细菌](https://www.zhihu.com/search?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%91%E7%8E%B0%E3%80%8C%E5%90%83%E5%A1%91%E6%96%99%E3%80%8D%E7%BB%86%E8%8F%8C)
-1. [凌晨老板通知出差家里没人看孩子该怎么做](https://www.zhihu.com/search?q=%E5%87%8C%E6%99%A8%E8%80%81%E6%9D%BF%E9%80%9A%E7%9F%A5%E5%87%BA%E5%B7%AE%E5%AE%B6%E9%87%8C%E6%B2%A1%E4%BA%BA%E7%9C%8B%E5%AD%A9%E5%AD%90%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A)
 
 ## 热门话题
 

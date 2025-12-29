@@ -9,7 +9,7 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2025-12-29 16:20:04 +0800`
+`更新时间：2025-12-29 17:21:26 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [刑释人员任职国有控股企业「高管」](https://www.zhihu.com/search?q=%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98%E4%BB%BB%E8%81%8C%E5%9B%BD%E6%9C%89%E6%8E%A7%E8%82%A1%E4%BC%81%E4%B8%9A%E3%80%8C%E9%AB%98%E7%AE%A1%E3%80%8D)
 1. [永州队夺湘超冠军](https://www.zhihu.com/search?q=%E6%B0%B8%E5%B7%9E%E9%98%9F%E5%A4%BA%E6%B9%98%E8%B6%85%E5%86%A0%E5%86%9B)
 1. [永州夺冠](https://www.zhihu.com/search?q=%E6%B0%B8%E5%B7%9E%E5%A4%BA%E5%86%A0)
-1. [湘超](https://www.zhihu.com/search?q=%E6%B9%98%E8%B6%85)
 
 ## 热门话题
 

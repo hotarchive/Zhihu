@@ -9,10 +9,11 @@
 - [抖音热榜](https://github.com/hotarchive/douyin)
 
 
-`更新时间：2026-01-20 13:22:13 +0800`
+`更新时间：2026-01-20 14:22:42 +0800`
 
 ## 热门搜索
 
+1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CAL)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BC%80%E6%8B%93%E8%80%85)
